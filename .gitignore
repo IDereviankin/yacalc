@@ -1,6 +1,9 @@
 # Wasm files
 *.wasm
 
+# Don't need JS files as TS is used
+*.js
+
 # Logs
 logs
 *.log
