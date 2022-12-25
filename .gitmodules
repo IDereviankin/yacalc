@@ -1,0 +1,3 @@
+[submodule "yacalc_core"]
+	path = yacalc_core
+	url = https://github.com/IDereviankin/yacalc_core
