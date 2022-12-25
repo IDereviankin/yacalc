@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+input {
+    text-align: end;
+    font-family: monospace;
+}
+
+div > div {
+    padding: 1px;
+}
+
+div > button {
+    width: 100%;
+    height: 100%;
+}
+
+#yacalc-body {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+#yacalc-screen {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
