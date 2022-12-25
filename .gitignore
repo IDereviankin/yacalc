@@ -4,6 +4,9 @@
 # Don't need JS files as TS is used
 *.js
 
+# NPM lock file
+package-lock.json
+
 # Logs
 logs
 *.log
