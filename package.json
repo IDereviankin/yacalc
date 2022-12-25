@@ -1,0 +1,17 @@
+{
+  "name": "yacalc",
+  "version": "1.0.0",
+  "description": "Yet Another Calculator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"No tests for you!\""
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "author": "IvanDereviankin",
+  "license": "MIT"
+}
